@@ -1,3 +1,4 @@
 C:/Users/balth/source/repos/Ne-kketsu/Villa/Build/Villa360Web.data filter=lfs diff=lfs merge=lfs -text
 Build/Villa360Web.data filter=lfs diff=lfs merge=lfs -text
 Build/Villa.data filter=lfs diff=lfs merge=lfs -text
+Build/Villa.wasm filter=lfs diff=lfs merge=lfs -text
